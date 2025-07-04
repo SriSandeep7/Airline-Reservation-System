@@ -1,4 +1,4 @@
-# Automobile-Statistics-Dashboard
+# Airline Reservation System
 # Description
 This project is a simple Airline Reservation System implemented in Java. It allows users to manage flights, make reservations, and cancel reservations. The system tracks passengers, tickets, and flight details.
 # Features
